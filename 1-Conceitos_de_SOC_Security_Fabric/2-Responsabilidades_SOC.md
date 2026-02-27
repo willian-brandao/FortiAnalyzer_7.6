@@ -1,0 +1,11 @@
+# Responsabilidade do SOC
+
+Os objetivos do SOC podem ser mais subdivididos dentro das responsabilidades das operações de segurança.
+
+* Threat Intelligence: O SOC deve estar atualizado sobre as últimas ameaças para refinar as estratégias e assegurar as capacidade de defesa. Ameaças estão evoluindo constantemente, então é importante que um SOC aproveite o suporte de outros recursos quando é possível.
+* Conformidade: O SOC deve aderir aos padrões regulamentadores da indústria e localização geográfica enquanto mantém registros de respostas à incidentes e ameaças.
+* CTEM: Essa metodologia para escopo, priorização, e validação de exposição de ameaças em redes permite que o SOC para planejar qual a melhor mobilização para pessoas e processos das operações de segurança.
+* Monitoramento em tempo real: O SOC requer acesso para várias informações para monitorar atividade de rede. Isso é realizado usando vários daso que estão armazenando informação, incluindo logs de todos os dispositivos no Security Fabric para detecção de ameaças. Dashboards, reportes e integração de segurança da informação e funcionalidades de monitoramento de redes de gerenciamento de eventos(SIEM) para ameaças e incidentes. 
+* Detecção de Ameaças: Quando monitora a rede, o SOC é responsáve pela detecção ativa e potenciais ameaças. Ferramentas como SIEM e XDR podem ajudar a capturar e analisar dados de telemetria para identificar ameaças potenciais. Em adição, ferramentas de SIEM e serviços de terceiros são usados para rapidamente identificar incidentes e outbreaks emergentes na rede.
+* Investigação de Incidentes: Depois de identificar ameaças, o SOC é responsável por investigar esses incidentes mais adiante, assegurando que o ataque não irá iniciar algum risco adicional ou comprometimento. Implementar medidas como isolamento de sistemas comprometidos durante invesigações podem neutralizar a ameaça e minimizar o dano do incidente de segurança. Resposta a incidentes é fundamental para assegurar que a investigação está completa, rastreando todos os potenciais sistemas e dispositivos afetados.
+* Resposta à incidentes: Como parte da investigação de incidentes, o SOC também responde a ameaças bloqueando endereços de IP, domínios ou URLS e coordenando esforço de recuperação para dispositivos afetados.  
